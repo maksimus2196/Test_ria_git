@@ -1,2 +1,2 @@
-console.log('some eversome feature');
+console.log('log after merge');
 
